@@ -1,3 +1,12 @@
+Note:
+======
+The initial framework and assets were provided by Udacity.
+The app is completed by Dhyan Shah
+
+
+
+
+
 Miwok App
 ===================================
 
